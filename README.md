@@ -22,7 +22,7 @@ npm run vue3serve
 
 # 后端-server
 
-利用Golang，主要实现数据库的增删改查。
+利用Golang，mysql，主要实现数据库的增删改查。
 
 实现了项目中的：
 
