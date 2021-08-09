@@ -41,7 +41,11 @@ model：数据库表
 	-prizeContent：奖品列表（奖品id，奖品名称，奖品数量）
 route：路由
 ```
+运行方式：
 
+```
+直接运行main.go即可
+```
 抽奖转盘效果如下：
 
 ![20210805_210942.gif](https://github.com/544211707/wheel/blob/master/img/20210805_210942.gif?raw=true)
