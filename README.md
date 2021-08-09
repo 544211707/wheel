@@ -45,7 +45,9 @@ route：路由
 
 ```
 直接运行main.go即可
+连接数据库需要go连接数据库，在server中的datasource.go中设置两处用户名和密码
 ```
+
 抽奖转盘效果如下：
 
 ![20210805_210942.gif](https://github.com/544211707/wheel/blob/master/img/20210805_210942.gif?raw=true)
