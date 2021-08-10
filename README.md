@@ -14,6 +14,7 @@
 运行方式：
 
 ```
+在安装完包后：
 npm run vue3build
 npm run vue3serve
 ```
@@ -44,6 +45,7 @@ route：路由
 运行方式：
 
 ```
+在安装完包后：
 直接运行main.go即可
 连接数据库需要go连接数据库，在server中的datasource.go中设置两处用户名和密码
 ```
